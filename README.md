@@ -16,11 +16,11 @@ Simply paste the link of the notebook to have it rendered on the website.
 
 ## Questions/Roadmap
 
-##### Who are most popular artists of the subreddit in terms of upvotes and how did it change over the years? (complete)
+#### Who are most popular artists of the subreddit in terms of upvotes and how did it change over the years? (complete)
 * [Data mine all posts using Pushshift](https://github.com/jko0401/rtrap-analysis/blob/master/rtrap-pushshift-datamine-2012-2020.ipynb)
 * [Clean and organize posts that are submissions of an artist's track](https://github.com/jko0401/rtrap-analysis/blob/master/rtrap_submission_data_racing_chart.ipynb)
 * [Upload data to Flourish and create a raching chart](https://public.flourish.studio/visualisation/2415828/)
-##### Which artist has the most positive fan sentiment based on discussions of tracks in the subreddit?
+#### Which artist has the most positive fan sentiment based on discussions of tracks in the subreddit?
 
 ## Contributing
 Pull requests, suggestions, and improvements are welcome. For major changes, please open an issue first to 
